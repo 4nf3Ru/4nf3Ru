@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hello there! I'm Anferu.
+### Beginner mobile devoloper.
 
+### I'm currently learning Java, Kotlin, Dart and Python.
 <!--
-**4nf3Ru/4nf3Ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
