@@ -1,7 +1,7 @@
 ## Hello there! I'm Anferu.
 ### Beginner mobile devoloper.
 
-### I'm currently learning Java, Kotlin, Dart and Python.
+### I'm currently learning **Java**, Kotlin, Dart and Python.
 
 ### My current laguages skills:
 English A2+
