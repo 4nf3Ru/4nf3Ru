@@ -1,4 +1,4 @@
-## Hello there! I'm Anferu, beginner mobile devoloper.
+## Hello there! I'm Anferu, beginner mobile developer.
 ### I'm currently learning Java, Kotlin, Dart and Python.
 ##
 ### My current languages skills:
