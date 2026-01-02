@@ -1,5 +1,5 @@
-## Hello there! I'm Anferu, beginner mobile developer.
-### I'm currently learning Java, Kotlin, Dart and Python.
+## Hello there! I'm Anferu, beginner mobile or frontend dev.
+### I'm currently learning Java, Kotlin, Dart and Python, JS, TS and React.
 ##
 ### My current languages skills:
 English __A2+__
