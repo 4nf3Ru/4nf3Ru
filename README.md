@@ -1,5 +1,5 @@
-## Hello there! I'm Anferu, beginner mobile or frontend dev.
-### I'm currently learning Java, Kotlin, Dart and Python, JS, TS and React.
+## Hello there! I'm Anferu, beginner DevOps.
+### I'm currently learning Git, Linux, CI/CD, Docker, Data Bases (PostgreSQL, MySQL, MongoDB, Redis), IaC, Kubernetes.
 ##
 ### My current languages skills:
 English __A2+__
