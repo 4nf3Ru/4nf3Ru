@@ -2,7 +2,7 @@
 ### I'm currently learning Git, Linux, CI/CD, Docker, Data Bases (PostgreSQL, MySQL, MongoDB, Redis), IaC, Kubernetes.
 ##
 ### My current languages skills:
-English __A2+__
+English __B1__
 
 Japanese __N5__
 
