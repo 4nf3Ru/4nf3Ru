@@ -1,5 +1,5 @@
 ## Hello there! I'm Anferu, beginner DevOps.
-### I'm currently learning Git, Linux, CI/CD, Docker, Data Bases (PostgreSQL, MySQL, MongoDB, Redis), IaC, Kubernetes.
+### I'm currently learning Git, Linux, CI/CD, Docker, Data Bases (PostgreSQL, MySQL, MongoDB, Redis), IaC, Kubernetes, Python and Bash.
 ##
 ### My current languages skills:
 English __B1__
